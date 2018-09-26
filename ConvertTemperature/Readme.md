@@ -7,4 +7,4 @@
 # How I Solved It Hints
 * 1 parameter
 * Use math operators
-* Algorithm to convert Celsius to Fahrenheit is Celsius temperature times 965, plus 32.
+* Algorithm to convert Celsius to Fahrenheit is Celsius temperature times 9/5, plus 32.
