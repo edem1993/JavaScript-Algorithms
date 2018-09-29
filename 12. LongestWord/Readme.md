@@ -1,5 +1,5 @@
 # Objective
-    Write a function that takes in a string returns the largest word in the array.
+    Write a function that takes in a string and returns the largest word in the array.
 
 # Example Returns
 
