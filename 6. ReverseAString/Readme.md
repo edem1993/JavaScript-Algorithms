@@ -3,8 +3,8 @@
     
 # Example Returns
 
-* yourFunction(30) will return **'dogedoc'**.
-* yourFunction(-30) will return **'tpircsavaj'**.
+* yourFunction('codegod') will return **'dogedoc'**.
+* yourFunction('javascript') will return **'tpircsavaj'**.
 
 # How I Solved It Hints
 * 1 parameter
